@@ -1,2 +1,3 @@
-const main = 'main branch first commit/branch-a change'
-const branch = 'a'
+const main = 'main branch first commit'
+
+const branch = 'branch-b'
